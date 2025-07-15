@@ -1,5 +1,3 @@
-![Nagios](./images/nagios.png)
-
 <div align="center">
 
 <a href="https://github.com/0xCyberLiTech">
@@ -58,18 +56,9 @@ Légende des couleurs des boutons :
 
 | Catégorie | Sujet | Accès Rapide |
 |:---:|:---|:---:|
-| **Tuto** | Installation complète de Nagios (sources). | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](NAGIOS-Core-installation-depuis-les-sources.md) |
-| **Tuto** | Script d'installation automatisé | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](NAGIOS-SCRIPT-INSTALLATION-AUTOMATISE.md) |
-| **Tuto** | Installation du serveur NRPE 4.1.0 | [<img src="https://img.shields.io/badge/EXPLORER-red?style=for-the-badge&logo=github&logoColor=white">]() |
-| **Tuto** | Installation du client NRPE 4.1.0 | [<img src="https://img.shields.io/badge/EXPLORER-red?style=for-the-badge&logo=github&logoColor=white">]() |
-| **Tuto** | Mise à jour complète de Nagios (sources). | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](NAGIOS-Core-mise-a-jour-depuis-les-sources.md) |
-| **Config** | Exemple : `contacts.cfg` | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](Exemple-contacts.cfg.md) |
-| **Config** | Exemple : `nagios.cfg` | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](Exemple-nagios.cfg.md) |
-| **Config** | Exemple : `templates.cfg` | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](Exemple-templates.cfg.md) |
-| **Config** | Exemple : `hostextinfo.cfg` | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](Exemple-hostextinfo.cfg.md) |
-| **Config** | Exemple : `server-linux.cfg` | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](Exemple-server-linux.cfg.md) |
-| **Config** | Exemple : `router.cfg` | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](Exemple-router.cfg.md) |
-| **Config** | Exemple : `ip-public.cfg` | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](Exemple-ip-public.cfg.md) |
+| **Tuto** | Installation de checkMK OMD | [<img src="https://img.shields.io/badge/EXPLORER-red?style=for-the-badge&logo=github&logoColor=white">]() |
+| **Tuto** | Configuration de checkMK OMD | [<img src="https://img.shields.io/badge/EXPLORER-red?style=for-the-badge&logo=github&logoColor=white">]() |
+| **Tuto** | Configuration d'un dashboard sur checkMK OMD | [<img src="https://img.shields.io/badge/EXPLORER-red?style=for-the-badge&logo=github&logoColor=white">]() |
 
 </div>
 
