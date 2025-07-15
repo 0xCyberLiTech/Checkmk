@@ -58,7 +58,7 @@ Légende des couleurs des boutons :
 |:---:|:---|:---:|
 | **Tuto** | Installation de checkmk OMD | [<img src="https://img.shields.io/badge/EXPLORER-red?style=for-the-badge&logo=github&logoColor=white">]() |
 | **Tuto** | Configuration de checkmk OMD | [<img src="https://img.shields.io/badge/EXPLORER-red?style=for-the-badge&logo=github&logoColor=white">]() |
-| **Tuto** | Configuration d'un dashboard sur checkMK OMD | [<img src="https://img.shields.io/badge/EXPLORER-red?style=for-the-badge&logo=github&logoColor=white">]() |
+| **Tuto** | Configuration d'un dashboard sur checkmk OMD | [<img src="https://img.shields.io/badge/EXPLORER-red?style=for-the-badge&logo=github&logoColor=white">]() |
 
 </div>
 
