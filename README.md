@@ -75,13 +75,11 @@ Le contenu est structuré, accessible et optimisé SEO pour répondre aux besoin
 ---
 
 <div align="center">
-
-| Catégorie | Sujet                                       | Accès Rapide                                                                                              |
-|----------|----------------------------------------------|-----------------------------------------------------------------------------------------------------------|
-| **Tuto** | Installation de checkmk OMD                  | [<img src="https://img.shields.io/badge/EXPLORER-red?style=for-the-badge&logo=github&logoColor=white">]() |
-| **Tuto** | Configuration de checkmk OMD                 | [<img src="https://img.shields.io/badge/EXPLORER-red?style=for-the-badge&logo=github&logoColor=white">]() |
-| **Tuto** | Configuration d'un dashboard sur checkmk OMD | [<img src="https://img.shields.io/badge/EXPLORER-red?style=for-the-badge&logo=github&logoColor=white">]() |
-
+  | Catégorie | Sujet                                       | Accès Rapide                                                                                              |
+  |----------|----------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+  | **Tuto** | Installation de checkmk OMD                  | [<img src="https://img.shields.io/badge/EXPLORER-red?style=for-the-badge&logo=github&logoColor=white">]() |
+  | **Tuto** | Configuration de checkmk OMD                 | [<img src="https://img.shields.io/badge/EXPLORER-red?style=for-the-badge&logo=github&logoColor=white">]() |
+  | **Tuto** | Configuration d'un dashboard sur checkmk OMD | [<img src="https://img.shields.io/badge/EXPLORER-red?style=for-the-badge&logo=github&logoColor=white">]() |
 </div>
 
 ---
