@@ -9,7 +9,7 @@
   <br></br>
 
   <h2>Laboratoire numérique pour la cybersécurité, Linux & IT.</h2>
-
+  
   <p align="center">
     <a href="https://0xcyberlitech.github.io/">
       <img src="https://img.shields.io/badge/Portfolio-0xCyberLiTech-181717?logo=github&style=flat-square" alt="🌐 Portfolio" />
@@ -17,17 +17,17 @@
     <a href="https://github.com/0xCyberLiTech">
       <img src="https://img.shields.io/badge/Profil-GitHub-181717?logo=github&style=flat-square" alt="🔗 Profil GitHub" />
     </a>
-    <a href="https://github.com/0xCyberLiTech/Zabbix/releases/latest">
-      <img src="https://img.shields.io/github/v/release/0xCyberLiTech/Zabbix?label=version&style=flat-square&color=blue" alt="📦 Dernière version" />
+    <a href="https://github.com/0xCyberLiTech/Checkmk/releases/latest">
+      <img src="https://img.shields.io/github/v/release/0xCyberLiTech/Checkmk?label=version&style=flat-square&color=blue" alt="📦 Dernière version Checkmk OMD" />
     </a>
-    <a href="https://github.com/0xCyberLiTech/Zabbix/blob/main/CHANGELOG.md">
-      <img src="https://img.shields.io/badge/📄%20Changelog-Zabbix-blue?style=flat-square" alt="📄 CHANGELOG Zabbix" />
+    <a href="https://github.com/0xCyberLiTech/Checkmk/blob/main/CHANGELOG.md">
+      <img src="https://img.shields.io/badge/📄%20Changelog-Checkmk%20OMD-blue?style=flat-square" alt="📄 CHANGELOG Checkmk OMD" />
     </a>
     <a href="https://github.com/0xCyberLiTech?tab=repositories">
       <img src="https://img.shields.io/badge/Dépôts-publics-blue?style=flat-square" alt="📂 Dépôts publics" />
     </a>
-    <a href="https://github.com/0xCyberLiTech/Zabbix/graphs/contributors">
-      <img src="https://img.shields.io/badge/👥%20Contributeurs-cliquez%20ici-007ec6?style=flat-square" alt="👥 Contributeurs Zabbix" />
+    <a href="https://github.com/0xCyberLiTech/Checkmk/graphs/contributors">
+      <img src="https://img.shields.io/badge/👥%20Contributeurs-cliquez%20ici-007ec6?style=flat-square" alt="👥 Contributeurs Checkmk OMD" />
     </a>
   </p>
 
