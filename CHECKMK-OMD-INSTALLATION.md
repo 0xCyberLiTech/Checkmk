@@ -62,18 +62,6 @@ Le contenu est structuré, accessible et optimisé SEO pour répondre aux besoin
 
 ---
 
-<div align="center" style="margin-bottom: 10px;">
-
-### **Sommaire**
-
-🟢 **Actif** – Dépôt totalement accessible  
-🟠 **Partiel** – Dépôt partiellement accessible  
-🔴 **Inactif** – Dépôt inaccessible ou indisponible
-
-</div>
-
----
-
 
 
 ---
