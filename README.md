@@ -1,55 +1,70 @@
 <div align="center">
 
+  <br></br>
+  
   <a href="https://github.com/0xCyberLiTech">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=D14A4A&center=true&vCenter=true&width=650&lines=SUPERVISION+AVEC+CHECKMK+OMD;Installation+%26+Configuration;Tutoriels+%26+Fichiers+d'Exemple" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=50&duration=6000&pause=1000000000&color=FF0048&center=true&vCenter=true&width=1100&lines=%3ESUPERVISION+ZABBIX_" alt="Titre dynamique SUPERVISION ZABBIX" />
   </a>
   
+  <br></br>
+
+  <h2>Laboratoire numérique pour la cybersécurité, Linux & IT.</h2>
+
   <p align="center">
-    <em>Tutoriels et configurations pour la supervision avec Checkmk OMD.</em><br>
-    <b>📊 Monitoring – 📈 Performance – ⚙️ Fiabilité</b>
+    <a href="https://0xcyberlitech.github.io/">
+      <img src="https://img.shields.io/badge/Portfolio-0xCyberLiTech-181717?logo=github&style=flat-square" alt="🌐 Portfolio" />
+    </a>
+    <a href="https://github.com/0xCyberLiTech">
+      <img src="https://img.shields.io/badge/Profil-GitHub-181717?logo=github&style=flat-square" alt="🔗 Profil GitHub" />
+    </a>
+    <a href="https://github.com/0xCyberLiTech/Zabbix/releases/latest">
+      <img src="https://img.shields.io/github/v/release/0xCyberLiTech/Zabbix?label=version&style=flat-square&color=blue" alt="📦 Dernière version" />
+    </a>
+    <a href="https://github.com/0xCyberLiTech/Zabbix/blob/main/CHANGELOG.md">
+      <img src="https://img.shields.io/badge/📄%20Changelog-Zabbix-blue?style=flat-square" alt="📄 CHANGELOG Zabbix" />
+    </a>
+    <a href="https://github.com/0xCyberLiTech?tab=repositories">
+      <img src="https://img.shields.io/badge/Dépôts-publics-blue?style=flat-square" alt="📂 Dépôts publics" />
+    </a>
+    <a href="https://github.com/0xCyberLiTech/Zabbix/graphs/contributors">
+      <img src="https://img.shields.io/badge/👥%20Contributeurs-cliquez%20ici-007ec6?style=flat-square" alt="👥 Contributeurs Zabbix" />
+    </a>
   </p>
 
-  [![🔗 Profil GitHub](https://img.shields.io/badge/Profil-GitHub-181717?logo=github&style=flat-square)](https://github.com/0xCyberLiTech)
-  [![📦 Dernière version](https://img.shields.io/github/v/release/0xCyberLiTech/Supervision?label=version&style=flat-square&color=blue)](https://github.com/0xCyberLiTech/Supervision/releases/latest)
-  [![📄 CHANGELOG](https://img.shields.io/badge/📄%20Changelog-Checkmk-blue?style=flat-square)](https://github.com/0xCyberLiTech/Checkmk/blob/main/CHANGELOG.md)
-  [![📂 Dépôts publics](https://img.shields.io/badge/Dépôts-publics-blue?style=flat-square)](https://github.com/0xCyberLiTech?tab=repositories)
-  [![👥 Contributeurs](https://img.shields.io/badge/👥%20Contributeurs-cliquez%20ici-007ec6?style=flat-square)](https://github.com/0xCyberLiTech/Checkmk/graphs/contributors)
+</div>
 
+<div align="center">
+  <img src="https://img.icons8.com/fluency/96/000000/cyber-security.png" alt="CyberSec" width="80"/>
+</div>
+
+<div align="center">
+  <p>
+    <strong>Cybersécurité</strong> <img src="https://img.icons8.com/color/24/000000/lock--v1.png"/> • <strong>Linux Debian</strong> <img src="https://img.icons8.com/color/24/000000/linux.png"/> • <strong>Sécurité informatique</strong> <img src="https://img.icons8.com/color/24/000000/shield-security.png"/>
+  </p>
 </div>
 
 ---
 
-### 👨‍💻 **À propos de moi.**
+<div align="center">
+  
+## À propos & Objectifs.
 
-> Bienvenue dans mon **laboratoire numérique personnel** dédié à l’apprentissage et à la vulgarisation de la cybersécurité.  
-> Passionné par **Linux**, la **cryptographie** et les **systèmes sécurisés**, je partage ici mes notes, expérimentations et fiches pratiques.  
->  
- > Proposer un contenu clair, structuré et accessible pour étudiants, curieux et professionnels de l’IT.  
-> 🔗 [Mon GitHub principal](https://github.com/0xCyberLiTech)
+</div>
 
-<p align="center">
-  <a href="https://github.com/0xCyberLiTech" target="_blank" rel="noopener">
-    <img src="https://skillicons.dev/icons?i=linux,debian,bash,docker,nginx,git,vim" alt="Skills" alt="Logo techno" width="300">
-  </a>
-</p>
+Ce projet propose des solutions innovantes et accessibles en cybersécurité, avec une approche centrée sur la simplicité d’utilisation et l’efficacité. Il vise à accompagner les utilisateurs dans la protection de leurs données et systèmes, tout en favorisant l’apprentissage et le partage des connaissances.
 
----
-
-### 🎯 **Objectif de ce dépôt.**
-
-> Ce dépôt a pour vocation de centraliser un ensemble de notions clés en supervision informatique. Il s’adresse aux passionnés, étudiants et professionnels souhaitant mieux comprendre les enjeux de la
-> surveillance des systèmes d'information, apprendre à mettre en place des outils de monitoring efficaces et se familiariser avec les concepts et bonnes pratiques pour maintenir la performance et la stabilité de
-> leurs environnements IT.
-
----
-
-### 🧭 **Sommaire :**
+Le contenu est structuré, accessible et optimisé SEO pour répondre aux besoins de :
+- 🎓 Étudiants : approfondir les connaissances
+- 👨‍💻 Professionnels IT : outils et pratiques
+- 🖥️ Administrateurs système : sécuriser l’infrastructure
+- 🛡️ Experts cybersécurité : ressources techniques
+- 🚀 Passionnés du numérique : explorer les bonnes pratiques
 
 ---
 
 <div align="center" style="margin-bottom: 10px;">
 
-Légende des couleurs des boutons :
+### **Sommaire**
 
 🟢 **Actif** – Dépôt totalement accessible  
 🟠 **Partiel** – Dépôt partiellement accessible  
@@ -61,82 +76,23 @@ Légende des couleurs des boutons :
 
 <div align="center">
 
-| Catégorie | Sujet | Accès Rapide |
-|:---:|:---|:---:|
-| **Tuto** | Installation de checkmk OMD | [<img src="https://img.shields.io/badge/EXPLORER-red?style=for-the-badge&logo=github&logoColor=white">]() |
-| **Tuto** | Configuration de checkmk OMD | [<img src="https://img.shields.io/badge/EXPLORER-red?style=for-the-badge&logo=github&logoColor=white">]() |
+| Catégorie | Sujet                                       | Accès Rapide                                                                                              |
+|----------|----------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| **Tuto** | Installation de checkmk OMD                  | [<img src="https://img.shields.io/badge/EXPLORER-red?style=for-the-badge&logo=github&logoColor=white">]() |
+| **Tuto** | Configuration de checkmk OMD                 | [<img src="https://img.shields.io/badge/EXPLORER-red?style=for-the-badge&logo=github&logoColor=white">]() |
 | **Tuto** | Configuration d'un dashboard sur checkmk OMD | [<img src="https://img.shields.io/badge/EXPLORER-red?style=for-the-badge&logo=github&logoColor=white">]() |
 
 </div>
 
 ---
 
-# 🔍 Checkmk / OMD – Présentation
+<div align="center">
+  <a href="https://github.com/0xCyberLiTech" target="_blank" rel="noopener">
+    <img src="https://skillicons.dev/icons?i=linux,debian,bash,docker,nginx,git,vim,python,markdown" alt="Skills" width="440">
+  </a>
+</div>
 
-**Checkmk** est une **solution de supervision IT** puissante et modulaire, utilisée pour surveiller des systèmes, réseaux, applications et infrastructures cloud. Elle est conçue pour offrir **des performances élevées**, une **installation simplifiée** et une **visualisation claire** de l'état de vos systèmes.
-
-**OMD** (Open Monitoring Distribution) est l’environnement dans lequel **Checkmk** (et d’autres outils de supervision) s’exécutent. Il fournit une structure packagée pour installer, gérer et faire fonctionner Checkmk facilement, avec tous ses composants intégrés.
-
----
-
-## 🧩 Composants clés d’une instance Checkmk OMD
-
-Une instance OMD contient :
-
-- **Checkmk Core** (CMC ou Nagios Core) : moteur de supervision.  
-- **Livestatus** : interface rapide pour interroger l'état des services.  
-- **Web GUI (Multisite)** : interface web centralisée de configuration et de visualisation.  
-- **RRDTool ou Graphite** : pour les graphes de performance.  
-- **Apache intégré** : serveur web préconfiguré pour l’accès à l’interface.  
-- **NagVis** : cartes personnalisées (en option).  
-- **MK Livestatus** : interface socket pour outils externes.  
-
----
-
-## 🚀 Fonctionnalités de Checkmk via OMD
-
-- Découverte automatique des services et hôtes.
-- Surveillance des ressources système (CPU, RAM, disques, processus).
-- Supervision réseau (ping, ports, SNMP, etc.).
-- Prise en charge d’agents Checkmk sur hôtes surveillés.
-- Supervision distribuée (remote sites, via agents ou SNMP).
-- Gestion des alertes (e-mail, webhook, scripts…).
-- Extensible via des **plug-ins** et des **scripts personnalisés**.
-- Support des conteneurs, du cloud, de Kubernetes, etc.
-
----
-
-## 🛠️ Avantages d’OMD avec Checkmk
-
-- **Installation rapide** : tout-en-un dans une instance OMD.
-- **Isolation par instance** : chaque instance a son propre environnement (utile pour tests, production, etc.).
-- **Facilité de mise à jour** : possibilité de migrer d’une version à l’autre.
-- **Simplicité de gestion** : via la CLI `omd` (start/stop/status/update/backup…).
-
----
-
-## 📦 Exemple de commandes OMD
-
-```bash
-omd create monsite      # Crée une nouvelle instance Checkmk
-omd start monsite       # Démarre l’instance
-omd stop monsite        # Stoppe l’instance
-omd update monsite      # Met à jour vers une nouvelle version de Checkmk
-omd status monsite      # Affiche le statut des services de l’instance
-```
-
----
-
-## 📚 Versions de Checkmk
-
-Checkmk est disponible en plusieurs éditions :
-
-- **Raw Edition (CRE)** – gratuite, open source, basée sur Nagios Core.  
-- **Enterprise Edition (CEE)** – version commerciale avec CMC, haute performance, et plus de fonctionnalités (graphes, alerting avancé, reporting…).  
-- **Managed Services Edition (CME)** – pour les MSPs, avec gestion multi-clients.
-
----
-
-<p align="center">
+<div align="center">
   <b>🔒 Un guide proposé par <a href="https://github.com/0xCyberLiTech">0xCyberLiTech</a> • Pour des tutoriels accessibles à tous. 🔒</b>
-</p>
+</div>
+
