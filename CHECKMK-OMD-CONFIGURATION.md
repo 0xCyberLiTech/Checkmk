@@ -60,6 +60,8 @@ Le contenu est structuré, accessible et optimisé SEO pour répondre aux besoin
 - 🛡️ Experts cybersécurité : ressources techniques
 - 🚀 Passionnés du numérique : explorer les bonnes pratiques
 
+---
+
 <h1 align="center"> 🚧 **Page en cours de développement non finalisée** 🚧</h1>
 <h3 align="center"> 🔧 Travail en cours... Merci de revenir plus tard !</h3>
 
